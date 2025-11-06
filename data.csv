@@ -1,0 +1,6 @@
+stock,sector,Price start,end_price
+AAPL,Technology,100,150
+MSFT,Technology,120,250
+TSLA,Automotive,600,xyz
+JPM,Financials,100,
+WMT,Consumer Staples,35,150

@@ -1,0 +1,4 @@
+stock,sector,Price start,end_price,rp
+AAPL,Technology,100.0,150.0,50.0
+MSFT,Technology,120.0,250.0,108.33
+WMT,Consumer Staples,35.0,150.0,328.57
